@@ -9,9 +9,9 @@ I'm a full-stack developer who loves building clean web apps and automating work
 ---
 
 ### 🛠 Frameworks & Tools
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev)](https://skillicons.dev/icons?i=git,docker,postgresql,python,r,php,java,kotlin,dart,bash,react)
 
 ---
 
 ### 📊 GitHub Stats & Languages
-![Alex's Top Langs](https://vercel.app)
+![Wamae's Top Langs](https://vercel.app)
