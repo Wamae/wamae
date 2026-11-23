@@ -14,4 +14,4 @@ I'm a full-stack developer who loves building clean web apps and automating work
 ---
 
 ### 📊 GitHub Stats & Languages
-![Wamae's Top Langs](https://vercel.app)
+![GitHub Stats](https://vercel.app)
